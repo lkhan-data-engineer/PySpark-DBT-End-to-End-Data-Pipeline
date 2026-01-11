@@ -1,6 +1,6 @@
 # PySpark & DBT Analytics Pipeline  
 **End-to-End Data Engineering Project | Medallion Architecture | Delta Lake | SCD Type 2**  
-[![Project Report](https://img.shields.io/badge/Report-View%20Details-blue)]()
+[![Project Report](https://img.shields.io/badge/Report-View%20Details-blue)](https://github.com/lkhan-data-engineer/PySpark-DBT-End-to-End-Data-Pipeline/blob/dae06b07f7395019a21815c8c9ea4ab11cd0d9c3/DBT_PySpark_Complete_Analytics_Pipeline.pdf)
 
 
 Production-grade analytics pipeline built on **Databricks Community Edition**, demonstrating modern data engineering and analytics engineering best practices using a pseudo-Uber dataset.
